@@ -1,5 +1,7 @@
 package SUBCONCIOUS_CODING;
 
+// 1hr 5 Mins challenge
+
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
