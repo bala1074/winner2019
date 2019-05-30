@@ -13,7 +13,7 @@ import java.util.LinkedList;
 import java.util.PriorityQueue;
 import java.util.Stack;
 
-public class Day_2_May29_2019 {
+public class Day2_May29_2019 {
 	private static void mian() throws Exception {
 		// TODO Auto-generated method stub
 
